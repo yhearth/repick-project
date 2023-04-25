@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="79" viewBox="0 0 36 79">
+  <defs>
+    <clipPath id="clip-이동_아이콘">
+      <rect width="36" height="79"/>
+    </clipPath>
+  </defs>
+  <g id="이동_아이콘" data-name="이동 아이콘" clip-path="url(#clip-이동_아이콘)">
+    <path id="패스_941" data-name="패스 941" d="M5141.141,3202.441l37.337,32.012,38.187-32.012" transform="translate(-3200.441 5218.403) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

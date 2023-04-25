@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1912" viewBox="0 0 1920 1912">
+  <defs>
+    <clipPath id="clip-아트보드_32">
+      <rect width="1920" height="1912"/>
+    </clipPath>
+  </defs>
+  <g id="아트보드_32" data-name="아트보드 – 32" clip-path="url(#clip-아트보드_32)">
+    <g id="타원_303" data-name="타원 303" transform="translate(159 154)" fill="none" stroke="#64e0e3" stroke-width="1" opacity="0.35">
+      <circle cx="796.199" cy="796.199" r="796.199" stroke="none"/>
+      <circle cx="796.199" cy="796.199" r="795.699" fill="none"/>
+    </g>
+    <circle id="타원_301" data-name="타원 301" cx="345.11" cy="345.11" r="345.11" transform="translate(610 605)" fill="#64e0e3"/>
+    <path id="패스_970" data-name="패스 970" d="M-15830.514,10908.568-14035.221,9603.5l43.061,1550.178-1838.354,82.81-23.187-327.922Z" transform="translate(15912.161 -9272.81)" fill="none" opacity="0.13"/>
+    <g id="타원_302" data-name="타원 302" transform="translate(382 377)" fill="none" stroke="#64e0e3" stroke-width="1" opacity="0.35">
+      <circle cx="573.681" cy="573.681" r="573.681" stroke="none"/>
+      <circle cx="573.681" cy="573.681" r="573.181" fill="none"/>
+    </g>
+    <circle id="타원_304" data-name="타원 304" cx="11.416" cy="11.416" r="11.416" transform="translate(1310.138 498.329)" fill="#b9f1f2"/>
+    <ellipse id="타원_305" data-name="타원 305" cx="11.416" cy="12.294" rx="11.416" ry="12.294" transform="translate(382 1063.547)" fill="#b9f1f2"/>
+    <circle id="타원_306" data-name="타원 306" cx="11.416" cy="11.416" r="11.416" transform="translate(800.897 1723.566)" fill="#b9f1f2"/>
+  </g>
+</svg>

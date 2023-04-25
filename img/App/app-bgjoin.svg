@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2238" height="1063" viewBox="0 0 2238 1063">
+  <defs>
+    <clipPath id="clip-아트보드_20">
+      <rect width="2238" height="1063"/>
+    </clipPath>
+  </defs>
+  <g id="아트보드_20" data-name="아트보드 – 20" clip-path="url(#clip-아트보드_20)">
+    <g id="그룹_859" data-name="그룹 859" transform="translate(65)">
+      <path id="합치기_12" data-name="합치기 12" d="M1550.122,1044H0V0H1551.114C1847.726.514,2088,234.024,2088,522s-240.274,521.486-536.886,522h-.992Z" transform="translate(-59 10)" fill="#64e0e3"/>
+      <circle id="타원_253" data-name="타원 253" cx="8" cy="8" r="8" transform="translate(2068 514)" fill="#64e0e3"/>
+      <circle id="타원_254" data-name="타원 254" cx="8" cy="8" r="8" transform="translate(2112 514)" fill="#64e0e3"/>
+      <circle id="타원_255" data-name="타원 255" cx="8" cy="8" r="8" transform="translate(2156 514)" fill="#64e0e3"/>
+    </g>
+  </g>
+</svg>

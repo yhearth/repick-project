@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="377" height="377" viewBox="0 0 377 377">
+  <defs>
+    <clipPath id="clip-아트보드_27">
+      <rect width="377" height="377"/>
+    </clipPath>
+  </defs>
+  <g id="아트보드_27" data-name="아트보드 – 27" clip-path="url(#clip-아트보드_27)">
+    <g id="그룹_828" data-name="그룹 828" transform="translate(61 68.246)">
+      <path id="패스_900" data-name="패스 900" d="M2654.1,562.814,2530.96,451.167,2412.074,561.695h33.772l.939-.846-.052,96.624h-2.618v23.7h164.256v.238h10.046v-23.7H2615.7l-.052-98.048-84.432-74.975,87.912,77.008Z" transform="translate(-2404.081 -446.411)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <g id="면" transform="translate(42.424 38.309)">
+        <path id="패스_500" data-name="패스 500" d="M491.749,239.9l84.521-73.753V344.435H491.684Z" transform="translate(-491.684 -166.144)" fill="#1ecdd1"/>
+      </g>
+      <path id="패스_501" data-name="패스 501" d="M472.434,261.1,595.185,149.334,718.456,261.1H682.7l-87.252-78.208L510.924,261.1H472.434" transform="translate(-468.434 -144.58)" fill="rgba(0,0,0,0)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="선_216" data-name="선 216" y1="99.409" transform="translate(42.424 116.517)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="선_217" data-name="선 217" y2="99.409" transform="translate(211.596 116.517)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="패스_502" data-name="패스 502" d="M512.563,285.387V224.75h85.821v60.637" transform="translate(-428.464 -69.46)" fill="rgba(0,0,0,0)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <ellipse id="타원_189" data-name="타원 189" cx="19.245" cy="19.245" rx="19.245" ry="19.245" transform="translate(107.766 97.273)" fill="rgba(0,0,0,0)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="선_218" data-name="선 218" x2="169.172" transform="translate(42.424 234.998)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
