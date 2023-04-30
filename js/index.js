@@ -17,7 +17,6 @@
         let newValuePercent = 0;
         const newValueAni = ()=>{
             newValuePercent = (scrollY - newValueVt) / winHeight * 100;
-           // console.log(newValuePercent)
             if( 260 <= newValuePercent){
                 $newValue.classList.add('active'); 
             }
@@ -26,7 +25,6 @@
                     $newValue.classList.add('active');     
                 }
             }  
-            
         }
 
         //이미지 마우스 오버 
@@ -63,15 +61,11 @@
          let bgSolPercent = 0;
          const bgSolAni = ()=>{
             bgSolPercent = (scrollY - bgSolViewt) / winHeight * 100;
-           //console.log(bgSolPercent)
             if( 60 <= bgSolPercent){
                 bgSolBox.find('img').addClass('on')
                 bgSolTxt.css('opacity','1');
              }
          }
-////////////////////////////////////////////////////////////
-        //service-area
-
         //brand-value
          var bdValue = $('.service-area .brand-value');
          var bdValueImgRe = $('.service-area .brand-value .logo-re');
@@ -116,7 +110,6 @@
 
            const bgLogoImg = ()=>{
             bgLogoPercent = (scrollY - bgLogoViewt) / winHeight * 100;
-             // console.log(bgLogoPercent)
               if( 900 <= bgLogoPercent){
                 bgLogoIcon.css('opacity','1')
                 bgLogoGird.css('opacity','0')
@@ -133,7 +126,6 @@
           let bgColorPer = 0;
           const bgColorAni = () =>{
             bgColorPer = (scrollY - bgColorViewT) / winHeight * 100;
-            //console.log(bgColorPer)
             if(  1000 <= bgColorPer){
                 $bgOranBox.classList.add('on')
                 $bgBlueBox.classList.add('on')
@@ -183,7 +175,6 @@
                 $(this).find('img').css('transform','translateX(0%)');
             }
          })
-////////////////////
 //app-area
         const $appOnbord = document.querySelector('.onbord-area');
         let appOnbordTop = $appOnbord.offsetTop;
@@ -191,7 +182,6 @@
         let appOnbordPer = 0;
         const appOnbordAni = () =>{
         appOnbordPer = (scrollY - appOnbordViewT) / winHeight * 100;
-        //console.log(appOnbordPer)
         if( 60 <= appOnbordPer){
             $('.onbord-Lbg').css({'left':'0','transition':'all 1s ease'})
             $('.onbord-Rbg').css({'right':'0','transition':'all 1s ease'})
@@ -269,7 +259,6 @@
         let proIconPer = 0;
         const proIconAni = () =>{
             proIconPer = (scrollY - proIconViewT) / winHeight * 100;
-           //console.log(proIconPer)
             if( 2100 <= proIconPer){
                 proIconItem.css('opacity','1');      
             }
